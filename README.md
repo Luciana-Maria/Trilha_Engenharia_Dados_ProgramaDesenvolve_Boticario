@@ -45,24 +45,6 @@ A trilha foi dividida em 8 grandes módulos, totalizando +100 horas de conteúdo
 ### 8. 🤖 IA e Reflexões Críticas
 - Aplicações simples de IA com OpenAI
 - Discussões sobre FOMO e arquétipos em dados
-
----
-
-### 🧠 Objetivo
-Este repositório tem como missão:
-
-Consolidar o conhecimento adquirido na trilha
-
-Criar um portfólio técnico para QA/Data Eng
-
-Compartilhar aprendizado com a comunidade tech
----
-### 🌈 Próximos Passos
- Revisar exercícios de Python com foco em limpeza de dados
-
- Subir os dashboards do Power BI com insights da base de consumo
-
- Publicar miniprojetos no LinkedIn com storytelling + insights 💬
 ---
 🧵 Conecte-se comigo
 Quer bater um papo sobre QA, dados, ou como transformar curiosidade em conhecimento? Me chama no LinkedIn 💬✨
