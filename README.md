@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu repositório de estudos da **Trilha de Engenharia de Dados**
 
 ## 🧭 Estrutura do Curso
 
-A trilha foi dividida em 8 grandes módulos, totalizando +100 horas de conteúdo intensivo e prático, com foco em **dados, estatística, Python, SQL, visualização e storytelling**:
+A trilha foi dividida em 4 módulos, totalizando +160 horas de conteúdo intensivo e prático, com foco em **dados, estatística, Python, SQL, visualização e storytelling**:
 
 ### 1. 📊 Introdução aos Dados
 - Conceitos básicos de dados
