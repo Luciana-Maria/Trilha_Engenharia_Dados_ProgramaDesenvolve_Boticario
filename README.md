@@ -1,4 +1,4 @@
-# 💡 Programa Desenvolve Boticário — Trilha Engenharia de Dados
+#  Programa Desenvolve Boticário — Trilha Engenharia de Dados
 
 > Segunda fase | Projeto de aprendizagem e prática de fundamentos em dados
 
