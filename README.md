@@ -2,7 +2,7 @@
 
 > Segunda fase | Projeto de aprendizagem e prática de fundamentos em dados
 
-Bem-vindo(a) ao meu repositório de estudos da **Trilha de Engenharia de Dados** do Programa Desenvolve, do Grupo Boticário. Aqui você vai encontrar anotações, PDFs organizados, exercícios resolvidos e miniprojetos que mostram minha jornada de aprendizado com dados — do básico ao avançado. ✨
+Bem-vindo(a) ao meu repositório de estudos da **Trilha de Engenharia de Dados** do Programa Desenvolve, do Grupo Boticário. Aqui você vai encontrar anotações, PDFs organizados, exercícios e miniprojetos que mostram minha jornada de aprendizado com dados.
 
 ---
 
@@ -17,7 +17,7 @@ A trilha foi dividida em 4 módulos, totalizando +160 horas de conteúdo intensi
 
 ### 2. 🛠 Estruturação e Limpeza de Dados
 - Tabelas, CSV, JSON
-- Padronização e correção com Excel e OpenRefine
+- Padronização e correção 
 
 ### 3. 🐍 Fundamentos de Python
 - Tipos de dados, estruturas, loops, condições
@@ -42,10 +42,6 @@ A trilha foi dividida em 4 módulos, totalizando +160 horas de conteúdo intensi
 - Ingestão, modelagem e visualização de dados reais
 - Apresentação final com storytelling e dashboards
 
-### 8. 🤖 IA e Reflexões Críticas
-- Aplicações simples de IA com OpenAI
-- Discussões sobre FOMO e arquétipos em dados
 ---
 🧵 Conecte-se comigo
-Quer bater um papo sobre QA, dados, ou como transformar curiosidade em conhecimento? Me chama no LinkedIn 💬✨
 [Meu LinkedIn](https://www.linkedin.com/in/lucianaqa) 
